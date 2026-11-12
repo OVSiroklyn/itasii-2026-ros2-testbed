@@ -1,0 +1,11 @@
+[INFO] [1794504967.006986976] [rcl]: Found security directory: /home/smad/sros2_demo/keystore/enclaves/gazebo
+stdin is not a terminal device. Keyboard handling disabled.[INFO] [1794504967.026311775] [rosbag2_recorder]: Press SPACE for pausing/resuming
+[INFO] [1794504967.027259943] [rosbag2_storage]: Opened database 'overhead_sros2_02/overhead_sros2_02_0.db3' for READ_WRITE.
+[INFO] [1794504967.027755585] [rosbag2_recorder]: Listening for topics...
+[INFO] [1794504967.027871692] [rosbag2_recorder]: Event publisher thread: Starting
+[INFO] [1794504967.027933332] [rosbag2_recorder]: Recording...
+[INFO] [1794504967.768444778] [rosbag2_recorder]: Subscribed to topic '/cmd_vel'
+[INFO] [1794504967.770031278] [rosbag2_recorder]: All requested topics are subscribed. Stopping discovery...
+[INFO] [1794504987.274222885] [rosbag2_cpp]: Writing remaining messages from cache to the bag. It may take a while
+[INFO] [1794504987.276606094] [rosbag2_recorder]: Event publisher thread: Exiting
+[INFO] [1794504987.277219075] [rosbag2_recorder]: Recording stopped
